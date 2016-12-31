@@ -1,3 +1,2 @@
 # iOSAppVersion
-iOS App Version Number
-New Start
+This is our private iOS app build number, nothing important.
