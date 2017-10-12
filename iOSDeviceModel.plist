@@ -143,42 +143,78 @@
 			<key>model</key>
 			<string>iPhone 7 Plus (GSM)</string>
 		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,1</string>
+			<key>model</key>
+			<string>iPhone 8 (CDMA)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,4</string>
+			<key>model</key>
+			<string>iPhone 8 (GSM)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,2</string>
+			<key>model</key>
+			<string>iPhone 8 Plus (CDMA)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,5</string>
+			<key>model</key>
+			<string>iPhone 8 Plus (GSM)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,3</string>
+			<key>model</key>
+			<string>iPhone X (CDMA)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,6</string>
+			<key>model</key>
+			<string>iPhone X (GSM)</string>
+		</dict>
 		
 		<dict>
 			<key>code</key>
 			<string>iPod1,1</string>
 			<key>model</key>
-			<string>iPod Touch 1G</string>
+			<string>iPod Touch 1st Gen</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPod2,1</string>
 			<key>model</key>
-			<string>iPod Touch 2G</string>
+			<string>iPod Touch 2nd Gen</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPod3,1</string>
 			<key>model</key>
-			<string>iPod Touch 3G</string>
+			<string>iPod Touch 3rd Gen</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPod4,1</string>
 			<key>model</key>
-			<string>iPod Touch 4G</string>
+			<string>iPod Touch 4th Gen</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPod5,1</string>
 			<key>model</key>
-			<string>iPod Touch 5G</string>
+			<string>iPod Touch 5th Gen</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPod7,1</string>
 			<key>model</key>
-			<string>iPod Touch 6G</string>
+			<string>iPod Touch 6th Gen</string>
 		</dict>
 		
 		<dict>
@@ -354,6 +390,30 @@
 			<string>iPad6,4</string>
 			<key>model</key>
 			<string>iPad Pro 9.7</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,1</string>
+			<key>model</key>
+			<string>iPad Pro 12.9 2nd Gen</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,2</string>
+			<key>model</key>
+			<string>iPad Pro 12.9 2nd Gen</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,3</string>
+			<key>model</key>
+			<string>iPad Pro 10.5</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,4</string>
+			<key>model</key>
+			<string>iPad Pro 10.5</string>
 		</dict>
 		
 		
