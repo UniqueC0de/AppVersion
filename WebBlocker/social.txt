@@ -1,0 +1,8 @@
+connect.facebook.net
+s.static.ak.facebook.com
+static.ak.facebook.com
+fbstatic-a.akamihd.net
+platform.twitter.com
+twitter.com
+apis.google.com
+plus.google.com
