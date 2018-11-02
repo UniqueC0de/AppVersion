@@ -179,6 +179,30 @@
 			<key>model</key>
 			<string>iPhone X (GSM)</string>
 		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone11,2</string>
+			<key>model</key>
+			<string>iPhone XS</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone11,4</string>
+			<key>model</key>
+			<string>iPhone XS Max</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone11,6</string>
+			<key>model</key>
+			<string>iPhone XS Max</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone11,8</string>
+			<key>model</key>
+			<string>iPhone X</string>
+		</dict>
 		
 		<dict>
 			<key>code</key>
@@ -366,6 +390,18 @@
 			<string>iPad5,2</string>
 			<key>model</key>
 			<string>iPad mini 4 (Cellular)</string>
+		</dict>		
+		<dict>
+			<key>code</key>
+			<string>iPad6,3</string>
+			<key>model</key>
+			<string>iPad Pro 9.7</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad6,4</string>
+			<key>model</key>
+			<string>iPad Pro 9.7</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -381,15 +417,15 @@
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPad6,3</string>
+			<string>iPad6,11</string>
 			<key>model</key>
-			<string>iPad Pro 9.7</string>
+			<string>9.7-inch iPad Wifi (2017)</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPad6,4</string>
+			<string>iPad6,12</string>
 			<key>model</key>
-			<string>iPad Pro 9.7</string>
+			<string>9.7-inch iPad Wifi + Cellular (2017)</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -413,7 +449,19 @@
 			<key>code</key>
 			<string>iPad7,4</string>
 			<key>model</key>
-			<string>iPad Pro 10.5</string>
+			<string>iPad Pro 10.5-Inch (Wi-Fi/Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,5</string>
+			<key>model</key>
+			<string>iPad 9.7-Inch 6th Gen Wifi</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,6</string>
+			<key>model</key>
+			<string>iPad 9.7-Inch 6th Gen Wifi + Cellular</string>
 		</dict>
 		
 		
