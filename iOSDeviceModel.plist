@@ -203,6 +203,24 @@
 			<key>model</key>
 			<string>iPhone X</string>
 		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone12,1</string>
+			<key>model</key>
+			<string>iPhone 11</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone12,3</string>
+			<key>model</key>
+			<string>iPhone 11 Pro</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone12,5</string>
+			<key>model</key>
+			<string>iPhone 11 Pro Max</string>
+		</dict>
 		
 		<dict>
 			<key>code</key>
