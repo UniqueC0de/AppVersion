@@ -201,7 +201,7 @@
 			<key>code</key>
 			<string>iPhone11,8</string>
 			<key>model</key>
-			<string>iPhone X</string>
+			<string>iPhone XR</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -257,6 +257,12 @@
 			<string>iPod7,1</string>
 			<key>model</key>
 			<string>iPod Touch 6th Gen</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPod9,1</string>
+			<key>model</key>
+			<string>iPod Touch 7th Gen</string>
 		</dict>
 		
 		<dict>
@@ -369,15 +375,9 @@
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPad5,3</string>
+			<string>iPad4,6</string>
 			<key>model</key>
-			<string>iPad Air 2 (WiFi)</string>
-		</dict>
-		<dict>
-			<key>code</key>
-			<string>iPad5,4</string>
-			<key>model</key>
-			<string>iPad Air 2 (Cellular)</string>
+			<string>iPad mini 2</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -409,6 +409,18 @@
 			<key>model</key>
 			<string>iPad mini 4 (Cellular)</string>
 		</dict>		
+		<dict>
+			<key>code</key>
+			<string>iPad5,3</string>
+			<key>model</key>
+			<string>iPad Air 2 (WiFi)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad5,4</string>
+			<key>model</key>
+			<string>iPad Air 2 (Cellular)</string>
+		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPad6,3</string>
@@ -481,8 +493,90 @@
 			<key>model</key>
 			<string>iPad 9.7-Inch 6th Gen Wifi + Cellular</string>
 		</dict>
-		
-		
+		<dict>
+			<key>code</key>
+			<string>iPad7,11</string>
+			<key>model</key>
+			<string>iPad 9.7-Inch 7th Gen</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad7,12</string>
+			<key>model</key>
+			<string>iPad 9.7-Inch 7th</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,1</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,2</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,3</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,4</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,5</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (3rd generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,6</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (3rd generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,7</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (3rd generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad8,8</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (3rd generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,1</string>
+			<key>model</key>
+			<string>iPad mini (5th generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,2</string>
+			<key>model</key>
+			<string>iPad mini (5th generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,4</string>
+			<key>model</key>
+			<string>iPad Air (3rd generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,5</string>
+			<key>model</key>
+			<string>iPad Air (3rd generation)</string>
+		</dict>
 	</array>
 </dict>
 </plist>
