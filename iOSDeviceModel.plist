@@ -91,27 +91,27 @@
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPhone7,2</string>
-			<key>model</key>
-			<string>iPhone 6</string>
-		</dict>
-		<dict>
-			<key>code</key>
 			<string>iPhone7,1</string>
 			<key>model</key>
 			<string>iPhone 6 Plus</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPhone8,2</string>
+			<string>iPhone7,2</string>
 			<key>model</key>
-			<string>iPhone 6S</string>
+			<string>iPhone 6</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPhone8,1</string>
 			<key>model</key>
 			<string>iPhone 6S Plus</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone8,2</string>
+			<key>model</key>
+			<string>iPhone 6S</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -127,15 +127,15 @@
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPhone9,3</string>
-			<key>model</key>
-			<string>iPhone 7 (GSM)</string>
-		</dict>
-		<dict>
-			<key>code</key>
 			<string>iPhone9,2</string>
 			<key>model</key>
 			<string>iPhone 7 Plus (CDMA)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone9,3</string>
+			<key>model</key>
+			<string>iPhone 7 (GSM)</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -151,27 +151,27 @@
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPhone10,4</string>
-			<key>model</key>
-			<string>iPhone 8 (GSM)</string>
-		</dict>
-		<dict>
-			<key>code</key>
 			<string>iPhone10,2</string>
 			<key>model</key>
 			<string>iPhone 8 Plus (CDMA)</string>
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPhone10,5</string>
-			<key>model</key>
-			<string>iPhone 8 Plus (GSM)</string>
-		</dict>
-		<dict>
-			<key>code</key>
 			<string>iPhone10,3</string>
 			<key>model</key>
 			<string>iPhone X (CDMA)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,4</string>
+			<key>model</key>
+			<string>iPhone 8 (GSM)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone10,5</string>
+			<key>model</key>
+			<string>iPhone 8 Plus (GSM)</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -279,6 +279,12 @@
 		</dict>
 		<dict>
 			<key>code</key>
+			<string>iPad1,2</string>
+			<key>model</key>
+			<string>iPad 3G</string>
+		</dict>
+		<dict>
+			<key>code</key>
 			<string>iPad2,1</string>
 			<key>model</key>
 			<string>iPad 2 (WiFi)</string>
@@ -366,6 +372,12 @@
 			<string>iPad4,2</string>
 			<key>model</key>
 			<string>iPad Air (Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad4,3</string>
+			<key>model</key>
+			<string>iPad Air (China)</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -561,30 +573,6 @@
 		</dict>
 		<dict>
 			<key>code</key>
-			<string>iPad11,1</string>
-			<key>model</key>
-			<string>iPad mini (5th generation)</string>
-		</dict>
-		<dict>
-			<key>code</key>
-			<string>iPad11,2</string>
-			<key>model</key>
-			<string>iPad mini (5th generation)</string>
-		</dict>
-		<dict>
-			<key>code</key>
-			<string>iPad11,4</string>
-			<key>model</key>
-			<string>iPad Air (3rd generation)</string>
-		</dict>
-		<dict>
-			<key>code</key>
-			<string>iPad11,5</string>
-			<key>model</key>
-			<string>iPad Air (3rd generation)</string>
-		</dict>
-		<dict>
-			<key>code</key>
 			<string>iPad8,9</string>
 			<key>model</key>
 			<string>iPad Pro 11-inch (2nd generation)</string>
@@ -606,6 +594,36 @@
 			<string>iPad8,12</string>
 			<key>model</key>
 			<string>iPad Pro (12.9-inch) (4th generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,1</string>
+			<key>model</key>
+			<string>iPad mini 5th Gen (Wi-Fi)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,2</string>
+			<key>model</key>
+			<string>iPad mini 5th Gen (Wi-Fi+Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,3</string>
+			<key>model</key>
+			<string>iPad Air 3rd Gen (Wi-Fi)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,4</string>
+			<key>model</key>
+			<string>iPad Air 3rd Gen (Wi-Fi+Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,5</string>
+			<key>model</key>
+			<string>iPad Air (3rd generation)</string>
 		</dict>
 	</array>
 </dict>
