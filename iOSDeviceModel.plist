@@ -467,13 +467,13 @@
 			<key>code</key>
 			<string>iPad6,11</string>
 			<key>model</key>
-			<string>9.7-inch iPad Wifi (2017)</string>
+			<string>9.7-inch iPad WiFi (2017)</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPad6,12</string>
 			<key>model</key>
-			<string>9.7-inch iPad Wifi + Cellular (2017)</string>
+			<string>9.7-inch iPad WiFi + Cellular (2017)</string>
 		</dict>
 		<dict>
 			<key>code</key>
@@ -503,13 +503,13 @@
 			<key>code</key>
 			<string>iPad7,5</string>
 			<key>model</key>
-			<string>iPad 9.7-Inch 6th Gen Wifi</string>
+			<string>iPad 9.7-Inch 6th Gen WiFi</string>
 		</dict>
 		<dict>
 			<key>code</key>
 			<string>iPad7,6</string>
 			<key>model</key>
-			<string>iPad 9.7-Inch 6th Gen Wifi + Cellular</string>
+			<string>iPad 9.7-Inch 6th Gen WiFi + Cellular</string>
 		</dict>
 		<dict>
 			<key>code</key>
