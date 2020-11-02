@@ -227,6 +227,30 @@
 			<key>model</key>
 			<string>iPhone SE (2nd Generation)</string>
 		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone13,1</string>
+			<key>model</key>
+			<string>iPhone 12 Mini</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone13,2</string>
+			<key>model</key>
+			<string>iPhone 12</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone13,3</string>
+			<key>model</key>
+			<string>iPhone 12 Pro</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone13,4</string>
+			<key>model</key>
+			<string>iPhone 12 Pro Max</string>
+		</dict>
 		
 		<dict>
 			<key>code</key>
@@ -624,6 +648,30 @@
 			<string>iPad11,5</string>
 			<key>model</key>
 			<string>iPad Air (3rd generation)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,6</string>
+			<key>model</key>
+			<string>iPad 8th Gen (WiFi)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad11,7</string>
+			<key>model</key>
+			<string>iPad 8th Gen (WiFi + Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,1</string>
+			<key>model</key>
+			<string>iPad Air 4th Gen (WiFi)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,2</string>
+			<key>model</key>
+			<string>iPad Air 4th Gen (WiFi + Cellular)</string>
 		</dict>
 	</array>
 </dict>
