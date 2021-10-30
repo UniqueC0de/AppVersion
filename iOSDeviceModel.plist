@@ -251,6 +251,30 @@
 			<key>model</key>
 			<string>iPhone 12 Pro Max</string>
 		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone14,4</string>
+			<key>model</key>
+			<string>iPhone 13 Mini</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone14,5</string>
+			<key>model</key>
+			<string>iPhone 13</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone14,2</string>
+			<key>model</key>
+			<string>iPhone 13 Pro</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone14,3</string>
+			<key>model</key>
+			<string>iPhone 13 Pro Max</string>
+		</dict>
 		
 		<dict>
 			<key>code</key>
@@ -672,6 +696,78 @@
 			<string>iPad13,2</string>
 			<key>model</key>
 			<string>iPad Air 4th Gen (WiFi + Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad12,1</string>
+			<key>model</key>
+			<string>iPad 9th Gen (WiFi)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad12,2</string>
+			<key>model</key>
+			<string>iPad 9th Gen (WiFi + Cellular)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad14,1</string>
+			<key>model</key>
+			<string>iPad mini 6th gen</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad14,2</string>
+			<key>model</key>
+			<string>iPad mini 6th gen</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,4</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch) (3rd gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,5</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch) (3rd gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,6</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch) (3rd gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,7</string>
+			<key>model</key>
+			<string>iPad Pro (11-inch) (3rd gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,8</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (5th gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,9</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (5th gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,10</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (5th gen)</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPad13,11</string>
+			<key>model</key>
+			<string>iPad Pro (12.9-inch) (5th gen)</string>
 		</dict>
 	</array>
 </dict>
