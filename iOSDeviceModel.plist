@@ -358,6 +358,37 @@
 			<key>model</key>
 			<string>iPhone 15 Pro Max</string>
 		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone17,1</string>
+			<key>model</key>
+			<string>iPhone 16 Pro</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone17,2</string>
+			<key>model</key>
+			<string>iPhone 16 Pro Max</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone17,3</string>
+			<key>model</key>
+			<string>iPhone 16</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone17,4</string>
+			<key>model</key>
+			<string>iPhone 16 Plus</string>
+		</dict>
+		<dict>
+			<key>code</key>
+			<string>iPhone17,5</string>
+			<key>model</key>
+			<string>iPhone 16e</string>
+		</dict>
+
 
 		<dict>
 			<key>code</key>
